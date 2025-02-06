@@ -86,6 +86,7 @@ python -u "c:\Users\Sergio\Desktop\CECETI\PPS\Tema2\Unidad 1Actividad 4.RA1-Serg
 <p align="center">
     <img src="Imagenes\Sand5.png" alt="Config Nano">
 </p>
+
 ---
 
 ## **Resultados y Observaciones**
