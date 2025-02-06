@@ -13,7 +13,6 @@
     - [**1. Descargar e instalar Sandboxie Plus**](#1-descargar-e-instalar-sandboxie-plus)
     - [**2. Ejecutar la aplicación en Sandboxie Plus**](#2-ejecutar-la-aplicación-en-sandboxie-plus)
     - [**3. Verificar y cerrar el entorno aislado**](#3-verificar-y-cerrar-el-entorno-aislado)
-  - [](#)
   - [**Resultados y Observaciones**](#resultados-y-observaciones)
   - [**Conclusión**](#conclusión)
 
