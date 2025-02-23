@@ -49,8 +49,8 @@ Para esta práctica yo he decidido usar Sandboxie por su simplicidad y comodidad
 3. Seguir los pasos del asistente de instalación.
 
 <p align="center">
-    <img src="Imagenes\Instalacion1.png" alt="Config Nano">
-    <img src="Imagenes\Instalacion2.png" alt="Config Nano">
+    <img src="Imagenes/Instalacion1.png" alt="Config Nano">
+    <img src="Imagenes/Instalacion2.png" alt="Config Nano">
 </p>
 
 ### **2. Ejecutar la aplicación en Sandboxie Plus**
